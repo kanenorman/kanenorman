@@ -1,24 +1,18 @@
-<p align="center" style="font-size:xx-large; color:#A51C30FF">
-  Kane Norman
-</p>
-
+<h2 align="center">Kane Norman</h2>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A51C30&center=true&vCenter=true&width=435&lines=Data+%2B+Math+%2B+Machine+Learning" alt="Typing SVG" /></a>
 </p>
+<img src="./mit-classic.png" align="right" style="width: 130px; vertical-align: top;">
+<img src="./harvard-shield.png" align="right" style="width: 130px; vertical-align: top;">
 
-<div style="display: flex; flex-direction: row;">
   <ul style="flex: 1;">
     <li>Currently pursuing a master's in data science at Harvard University</li>
     <li>Also, cross-registered at MIT studying quantitative finance</li>
     <li>Interested in Computer Science, Math, Data, and Machine Learning</li>
   </ul>
-  <div style="flex: 1;">
-    <img src="./mit-classic.png" align="right" style="width: 40%;">
-    <img src="./harvard-shield.png" align="right" style="width: 40%;">
+
   
-  </div>
-</div>
 
 ## Links
 
