@@ -13,12 +13,6 @@
   </ul>
 
   
-
-## Links
-
-[![Personal Website](https://img.shields.io/badge/kanenorman.com-crimson?&style=for-the-badge)](https://kanenorman.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/kanenorman/)
-
 ## Primary Languages
 
 <div>
