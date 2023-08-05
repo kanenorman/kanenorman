@@ -1,7 +1,7 @@
 <h2 align="center">Kane Norman</h2>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A51C30&center=true&vCenter=true&width=435&lines=Data+%2B+Math+%2B+Machine+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A51C30&center=true&vCenter=true&width=435&lines=Machine+Learning+%2B+Math+%2B+Data" alt="Typing SVG" /></a>
 </p>
 <img src="./mit-classic.png" align="right" style="width: 130px; vertical-align: top;">
 <img src="./harvard-shield.png" align="right" style="width: 130px; vertical-align: top;">
@@ -9,7 +9,7 @@
   <ul style="flex: 1;">
     <li>Currently pursuing a master's in data science at Harvard University</li>
     <li>Also, cross-registered at MIT studying quantitative finance</li>
-    <li>Highly proficient in Computer Science, Math, Data, and Machine Learning</li>
+    <li>Highly proficient in Machine Learning, Math, Computer Science and all things related to Data,</li>
   </ul>
 
   
@@ -25,4 +25,6 @@
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kanenorman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+| GitHub Streak                          | LeetCode Stats                            |
+| -------------------------------------  | ----------------------------------------  |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=kanenorman&border_radius=5&card_width=496)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/kane_norman?theme=light&font=Noto%20Sans%20Thai) |
