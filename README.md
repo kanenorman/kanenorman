@@ -9,7 +9,7 @@
   <ul style="flex: 1;">
     <li>Currently pursuing a master's in data science at Harvard University</li>
     <li>Also, cross-registered at MIT studying quantitative finance</li>
-    <li>Highly proficient in Machine Learning, Math, Computer Science and all things related to Data,</li>
+    <li>Highly proficient in Machine Learning, Math, Computer Science and all things related to Data</li>
   </ul>
 
   
