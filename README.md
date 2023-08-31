@@ -28,3 +28,9 @@
 | GitHub Streak                          | LeetCode Stats                            |
 | -------------------------------------  | ----------------------------------------  |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=kanenorman&theme=default)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/kane_norman?theme=light&font=Noto%20Sans%20Thai) |
+
+
+## Links
+[![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge)](https://www.linkedin.com/in/kanenorman/)
+[![PersonalWebsite](https://img.shields.io/badge/kanenorman.com-85A6D4?style=for-the-badge)](https://kanenorman.com/)
+
