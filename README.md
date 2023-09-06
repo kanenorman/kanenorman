@@ -32,5 +32,4 @@
 
 ## Links
 [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge)](https://www.linkedin.com/in/kanenorman/)
-[![PersonalWebsite](https://img.shields.io/badge/kanenorman.com-85A6D4?style=for-the-badge)](https://kanenorman.com/)
 
