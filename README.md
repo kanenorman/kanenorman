@@ -8,13 +8,13 @@
 <img src="./harvard-shield.png" align="right" style="width: 130px; vertical-align: top;">
 
   <ul style="flex: 1;">
-    <li>Currently pursuing a master's in data science at Harvard University</li>
-    <li>Also, cross-registered at MIT studying quantitative finance</li>
+    <li>Currently pursuing a master's in Data Science at Harvard University</li>
+    <li>Also, cross-registered at MIT studying Quantitative Finance and Machine Learning</li>
     <li>Highly proficient in Machine Learning, Math, Computer Science and all things related to Data</li>
   </ul>
 
   
-## Primary Tech Stack
+## Favorite Tools
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
