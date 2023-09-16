@@ -2,13 +2,13 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A51C30&center=true&vCenter=true&width=435&lines=Machine+Learning+%2B+Math+%2B+Data" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63A5F7&width=435&lines=Machine+Learning+%2B+Math+%2B+Big+Data" alt="Typing SVG" /></a>
 </p>
 <img src="./harvard-shield.png" align="right" style="width: 130px; vertical-align: top;">
 
 
 <p style="color:red">
-I'm currently pursuing a Master's in Data Science at Harvard University, specializing in Machine Learning. I have a strong foundation in mathematics, computer science, and machine learning. My expertise spans Python, databases, and Linux environments, blending data science and software engineering skills. I excel in designing, developing, and deploying complex ML models with a strong emphasis on software engineering best practices. I have a track record of building robust data pipelines and contributing to extensive codebases. Beyond technical proficiency, I create innovative solutions that connect intricate data insights to practical real-world applications.
+I'm currently pursuing a Master's in Data Science at Harvard University. I have a strong foundation in mathematics, computer science, and machine learning, and deep learning. My expertise spans Python, databases, and Linux environments, blending data science and software engineering skills. I excel in designing, developing, and deploying complex ML models with a strong emphasis on software engineering best practices. I have a track record of building robust data pipelines and contributing to extensive codebases. Beyond technical proficiency, I create innovative solutions that connect intricate data insights to practical real-world applications.
 </p>
 
   
