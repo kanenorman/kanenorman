@@ -7,9 +7,12 @@
 <img src="./harvard-shield.png" align="right" style="width: 130px; vertical-align: top;">
 
 
-<p style="color:red">
-I'm currently pursuing a Master's in Data Science at Harvard University. I have a strong foundation in mathematics, computer science, and machine learning, and deep learning. My expertise spans Python, databases, and Linux environments, blending data science and software engineering skills. I excel in designing, developing, and deploying complex ML models with a strong emphasis on software engineering best practices. I have a track record of building robust data pipelines and contributing to extensive codebases. Beyond technical proficiency, I create innovative solutions that connect intricate data insights to practical real-world applications.
+<p>
+I am currently pursuing a Master's degree in Data Science at Harvard University. I have a solid foundation in mathematics, computer science, machine learning, and deep learning. My expertise entails an extremley deep understanding of the Python programming language, databases, and Linux environments, allowing me to effectively merge data science with software engineering skills. </p>
+
+<p>My strengths shine in the areas of designing, developing, and deploying complex machine learning models, all while placing a strong emphasis on software engineering best practices. I have a proven track record of constructing robust data pipelines and making valuable contributions to extensive codebases. Beyond my technical proficiency, I specialize in crafting innovative solutions that bridge intricate data insights with practical real-world applications.
 </p>
+
 
   
 ## Favorite Tools
