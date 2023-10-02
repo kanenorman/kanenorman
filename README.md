@@ -39,7 +39,7 @@ I am currently pursuing a Master's degree in Data Science at Harvard University.
 
 | GitHub Streak                          | LeetCode Stats                            |
 | -------------------------------------  | ----------------------------------------  |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=kanenorman&theme=default)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/kane_norman?theme=light&font=Noto%20Sans%20Thai) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=kanenorman&theme=default&starting_year=2017)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/kane_norman?theme=light&font=Noto%20Sans%20Thai) |
 
 
 ## Links
