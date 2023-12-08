@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA6F7&width=435&lines=Full+Stack+Machine+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Machine+Learning" alt="Typing SVG" /></a>
 </p>
 <img src="https://seeklogo.com/images/H/harvard-university-logo-D7CC65EE30-seeklogo.com.png" align="right" style="width: 130px; vertical-align: top;">
 
