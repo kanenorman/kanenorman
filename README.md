@@ -3,18 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Machine+Learning" alt="Typing SVG" /></a>
-</p>
-<img src="https://seeklogo.com/images/H/harvard-university-logo-D7CC65EE30-seeklogo.com.png" align="right" style="width: 130px; vertical-align: top;">
 
-
-<p>
-I am currently pursuing a Master's degree in Data Science at Harvard University. I have a solid foundation in mathematics, computer science, machine learning, and deep learning. My expertise entails an extremley deep understanding of the Python programming language, databases, and Linux environments, allowing me to effectively merge data science with software engineering skills. </p>
-
-<p>My strengths shine in the areas of designing, developing, and deploying complex machine learning models, all while placing a strong emphasis on software engineering best practices. I have a proven track record of constructing robust data pipelines and making valuable contributions to extensive codebases. Beyond my technical proficiency, I specialize in crafting innovative solutions that bridge intricate data insights with practical real-world applications.
-</p>
-
-
-  
 ## Favorite Tools
 
 <div>
@@ -40,10 +29,6 @@ I am currently pursuing a Master's degree in Data Science at Harvard University.
 | GitHub Streak                          | LeetCode Stats                            |
 | -------------------------------------  | ----------------------------------------  |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=kanenorman&theme=default&starting_year=2017)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/kane_norman?theme=light&font=Noto%20Sans%20Thai) |
-
-
-## Links
-[![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge)](https://www.linkedin.com/in/kanenorman/)
 
 
 ## Mantra
