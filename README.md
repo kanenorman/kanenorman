@@ -1,9 +1,9 @@
 <h1 align="center">Kane Norman</h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Machine+Learning" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+%2B+Machine+Learning" alt="Typing SVG" /></a>
+</p>
+  
 ## Favorite Tools
 
 <div>
